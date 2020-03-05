@@ -79,3 +79,5 @@ gem 'bootstrap-sass'
 gem 'pry-byebug'
 
 gem 'jp_prefecture'
+gem 'geocoder'
+gem 'dotenv-rails'
